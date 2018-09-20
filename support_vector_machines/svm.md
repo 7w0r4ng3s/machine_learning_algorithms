@@ -1,6 +1,8 @@
 # Support Vector Machines
 **Support vector machines (SVM)** are a set of supervised learning methods used for *classification*, *regressions*, and *outliers detection*.
 
+Given labeled training data (*supervised learning*), the algorithm outputs an optimal hyperplane which categorizes new examples.
+
 Advantage
 - Effective in high dimensional spaces
 - Effective in cases where # of dimensions is greater than # of samples
